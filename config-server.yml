@@ -1,0 +1,6 @@
+spring:
+  redis:
+    username: zhangsan
+  data:
+    mongod:
+      username: lisi
